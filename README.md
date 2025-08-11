@@ -17,7 +17,7 @@
 
 1. Clone the repo
 git clone https://github.com/justimagineusername/forFun
-cd YourRepo
+cd forFun
 2. Create and activate a Python virtual environment
 On Linux/macOS:
 python3 -m venv venv
@@ -34,8 +34,9 @@ check with
 geckodriver --version
 
 5. Run the main scraper script
-
 python3 selenium_scraper.py
-6. Check the output CSV file
+
+7. Check the output CSV file
 After the scraper runs successfully, you should see a file named list_am_selenium_posts.csv with the scraped posts data.
+
 ---

@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+selectors.json
+list_am_selenium_posts.csv
+
